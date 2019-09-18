@@ -50,6 +50,7 @@ namespace ConsoleRestSharp
                 WriteLine("API RESPONSE FAIL");
                 WriteLine("API RESPONSE FAIL");
                 WriteLine("API RESPONSE FAIL");
+
                 WriteLine();
                 WriteLine(content);
             }
